@@ -1,2 +1,2 @@
 # elissarista
-A progressive web app for web developer mentors and mentees
+A progressive web app to bring web developers together - for mentors and mentees
